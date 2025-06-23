@@ -1,0 +1,9 @@
+# base
+python-dotenv==1.0.1
+
+# LLM
+groq==0.28.0
+
+# ui
+textual==3.5.0
+textual-dev==1.7.0
